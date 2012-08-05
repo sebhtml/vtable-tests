@@ -1,0 +1,18 @@
+model name	: Quad-Core AMD Opteron(tm) Processor 8378
+gcc (GCC) 4.6.3 20120306 (Red Hat 4.6.3-2)
+
+C
+
+-1010304768
+
+real	0m0.390s
+user	0m0.385s
+sys	0m0.003s
+
+C++
+
+-1010304768
+
+real	0m2.210s
+user	0m2.193s
+sys	0m0.005s
