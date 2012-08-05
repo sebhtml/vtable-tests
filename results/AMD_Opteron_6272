@@ -1,0 +1,18 @@
+model name	: AMD Opteron(TM) Processor 6272                 
+gcc (GCC) 4.6.3 20120306 (Red Hat 4.6.3-2)
+
+C
+
+-1010304768
+
+real	0m0.138s
+user	0m0.135s
+sys	0m0.002s
+
+C++
+
+-1010304768
+
+real	0m1.823s
+user	0m1.812s
+sys	0m0.002s
