@@ -1,0 +1,18 @@
+model name	: AMD Opteron(tm) Processor 6172
+gcc (GCC) 4.4.5 20110214 (Red Hat 4.4.5-6)
+
+C
+
+-1010304768
+
+real	0m0.196s
+user	0m0.194s
+sys	0m0.004s
+
+C++
+
+-1010304768
+
+real	0m2.343s
+user	0m2.340s
+sys	0m0.002s
