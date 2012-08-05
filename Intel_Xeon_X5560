@@ -1,0 +1,18 @@
+model name	: Intel(R) Xeon(R) CPU           X5560  @ 2.80GHz
+gcc (GCC) 4.1.2 20080704 (Red Hat 4.1.2-51)
+
+C
+
+-1010304768
+
+real	0m0.217s
+user	0m0.216s
+sys	0m0.000s
+
+C++
+
+-1010304768
+
+real	0m1.726s
+user	0m1.722s
+sys	0m0.001s
