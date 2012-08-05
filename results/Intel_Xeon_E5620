@@ -11,8 +11,6 @@ sys	0m0.000s
 
 C++
 
-test.cpp:4: warning: ‘class Call’ has virtual functions but non-virtual destructor
-test.cpp:9: warning: ‘class Implementation’ has virtual functions but non-virtual destructor
 -1010304768
 
 real	0m2.021s
