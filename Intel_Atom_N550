@@ -1,0 +1,15 @@
+model name	: Intel(R) Atom(TM) CPU N550   @ 1.50GHz
+
+C
+-1010304768
+
+real	0m0.341s
+user	0m0.332s
+sys	0m0.004s
+
+C++
+-1010304768
+
+real	0m9.549s
+user	0m9.525s
+sys	0m0.004s

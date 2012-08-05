@@ -1,0 +1,2 @@
+Some tests to compare function pointers (C)
+with virtual function calls (C++).
