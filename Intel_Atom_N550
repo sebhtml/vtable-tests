@@ -1,15 +1,18 @@
 model name	: Intel(R) Atom(TM) CPU N550   @ 1.50GHz
+gcc.real (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
 
 C
+
 -1010304768
 
-real	0m0.341s
-user	0m0.332s
-sys	0m0.004s
+real	0m0.346s
+user	0m0.344s
+sys	0m0.000s
 
 C++
+
 -1010304768
 
-real	0m9.549s
-user	0m9.525s
+real	0m9.541s
+user	0m9.521s
 sys	0m0.004s
